@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CXGWeatherUpdateDemo</string>
+    <string name="hello_world">CXG Weather Updates Demo App</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="lbl_network_unavailable">Not Connected to Any Network\nPlease Check Your Network (Wifi/3G) Connection</string>
+    <string name="msg_invld_rqst_mt">Invalid Request Method Type</string>
+    <string name="msg_invld_rqst">Missing required headers to process this request</string>
+    <string name="msg_null_or_empty">Value should not be NULL or EMPTY</string>
+    <string name="msg_invalid_api_key">Please enter Weather Webservice API Key !</string>
+    
+</resources>
